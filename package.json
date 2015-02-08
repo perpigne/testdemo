@@ -1,0 +1,25 @@
+{
+  "name": "testdemo",
+  "version": "1.0.0",
+  "description": "Demontre les tests automatisés",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node spec/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/perpigne/testdemo.git"
+  },
+  "keywords": [
+    "tdd",
+    "jasmine",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Ernst Perpignand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/perpigne/testdemo/issues"
+  },
+  "homepage": "https://github.com/perpigne/testdemo"
+}
