@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/perpigne/testdemo/issues"
   },
-  "homepage": "https://github.com/perpigne/testdemo"
+  "homepage": "https://github.com/perpigne/testdemo",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
 }
